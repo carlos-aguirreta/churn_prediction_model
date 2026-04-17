@@ -13,7 +13,7 @@ This project aims to predict customer churn for the ModelFitness gym chain. By l
 - **Libraries:** Scikit-learn, Pandas, Seaborn, Matplotlib.
 - **Machine Learning:** Classification (Supervised) and Clustering (Unsupervised).
 
-**[View Project Notebook](PON_AQUÍ_TU_ENLACE_A_GITHUB)**
+**[View Project Notebook](https://github.com/carlos-aguirreta/churn_prediction_model/blob/main/notebook%20(english).ipynb)**
 
 <br>
 <br>
@@ -33,4 +33,4 @@ Este proyecto tiene como objetivo predecir la pérdida de clientes para la caden
 - **Librerías:** Scikit-learn, Pandas, Seaborn, Matplotlib.
 - **Machine Learning:** Clasificación (Supervisado) y Clustering (No supervisado).
 
-**[Ver Notebook del Proyecto](PON_AQUÍ_TU_ENLACE_A_GITHUB)**
+**[Ver Notebook del Proyecto](https://github.com/carlos-aguirreta/churn_prediction_model/blob/main/notebook.ipynb)**
